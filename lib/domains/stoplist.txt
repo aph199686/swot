@@ -1493,3 +1493,5 @@ binusian.org
 vjis.edu.vn
 okcx.edu.rs
 priyo.edu.pl
+mails.ccnu.edu.cn
+ccnu.edu.cn
